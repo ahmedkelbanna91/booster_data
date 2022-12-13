@@ -1,10 +1,10 @@
 {
     "P1": {
-        "tempp1": 30.5,
-        "timep1": 1
+        "tempp1": 70,
+        "timep1": 5
     },
     "P2": {
-        "tempp2": 72.0,
-        "timep2": 10
+        "tempp2": 70,
+        "timep2": 5
     }
 }
